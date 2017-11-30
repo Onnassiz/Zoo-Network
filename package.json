@@ -1,0 +1,36 @@
+{
+  "name": "menagerie",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "google-maps-react": "^1.0.19",
+    "jsonwebtoken": "^8.1.0",
+    "lodash": "^4.17.4",
+    "password-validator": "^2.2.0",
+    "react": "^15.2.1",
+    "react-addons-css-transition-group": "^15.0.2",
+    "react-alert": "^1.0.14",
+    "react-autosuggest": "^9.3.2",
+    "react-dom": "^15.2.1",
+    "react-dropzone": "^4.2.3",
+    "react-image-gallery": "^0.7.15",
+    "react-loading": "^1.0.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.0",
+    "react-router-redux": "^4.0.4",
+    "redux": "^3.5.2",
+    "redux-logger": "^3.0.1",
+    "redux-thunk": "^2.2.0",
+    "validator": "^7.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

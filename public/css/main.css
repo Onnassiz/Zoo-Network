@@ -1,0 +1,30 @@
+
+main {
+    min-height: 96vh;
+    margin-bottom: 20px;
+}
+
+nav {
+    color: #fff;
+    background-color: #4db6ac;
+    width: 100%;
+    height: 56px;
+    line-height: 56px
+}
+
+hr{
+    border-color: #4db6ac;
+}
+
+.modifyGif{
+    vertical-align: baseline;
+    position: relative;
+    top:-15px;
+    left: 20px;
+}
+
+.react-alert .alert{
+    width: 600px;
+}
+
+
