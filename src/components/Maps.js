@@ -35,7 +35,7 @@ class Maps extends React.Component{
     }
 
     getLatsLongs(postcodes){
-        const url = "http://api.postcodes.io/postcodes";
+        const url = "https://api.postcodes.io/postcodes";
         const { getZoosLatLong } = this.props;
         getZoosLatLong(url, postcodes)
             .then((response) => {
